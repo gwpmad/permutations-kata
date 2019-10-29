@@ -1,0 +1,11 @@
+{
+  "name": "permutations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon -x 'node tests.js' -w . -e js"
+  },
+  "author": "gwpmad",
+  "license": "ISC"
+}
